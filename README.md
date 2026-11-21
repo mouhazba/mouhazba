@@ -40,7 +40,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Fouta Masdjid app**](https://github.com/mouhazba/Initial-version-of-fouta-masdjid-app) | Donation &amp; expense management for a mosque during Ramadan: donors, receipts, expenses, reports, login. | Python · Streamlit · SQLite · pandas |
+| [**Fouta Masdjid app**](https://github.com/mouhazba/fouta-masdjid-app) | Donation &amp; expense management for a mosque during Ramadan: donors, receipts, expenses, reports, login. | Python · Streamlit · SQLite · pandas |
 | [**hall_python**](https://github.com/mouhazba/hall_python) | Python mini-projects: a task manager built 3 ways (functions → decorators → classes), a breached-password checker, image tools. | Python |
 | [**LEAD-PYTHON-AI-MASTERY**](https://github.com/mouhazba/LEAD-PYTHON-AI-MASTERY) | My structured path to advanced Python, with assessments, exercises and AI-assisted code review workflows. | Python · Claude Code |
 | [**linux_challenges**](https://github.com/mouhazba/linux_challenges) | Linux command-line quizzes and challenges I use to sharpen my sysadmin skills. | Linux · Bash |
