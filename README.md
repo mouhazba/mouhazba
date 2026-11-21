@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mahadiou 👋</h1>
+<h1 align="center">Hi, I'm Mamadou (Mahadiou) Ba 👋</h1>
 <p align="center">
   <b>IT Operations &amp; Python Developer</b><br>
   SaaS administration · Linux · Automation · Brooklyn, NY
@@ -18,7 +18,7 @@
 - 🏢 **IT Operations** at **Philanthropy Leaders** (non-profit), where I administer **Salesforce**, **Shopify**, **Google Workspace** and support **Microsoft 365**.
 - 🐍 **Python developer**: I build small tools that solve real problems, and I care about *how things work under the hood*.
 - 🐧 Daily **Linux** user, comfortable with the command line, Git and GitHub.
-- 🎓 Incoming **Computer Engineering** student at **New York City College of Technology (CUNY)**, Spring 2027.
+- 🎓 Incoming **Computer Systems** student at **New York City College of Technology (CUNY)**, Spring 2027.
 - 📜 Completing the **Google IT Support Professional Certificate**.
 - 🌍 Languages: English · French · Wolof · Fulani.
 
@@ -60,7 +60,7 @@
 - 🏢 **IT Operations** chez **Philanthropy Leaders** (organisation à but non lucratif) : j'administre **Salesforce**, **Shopify** et **Google Workspace**, et j'assure le support **Microsoft 365**.
 - 🐍 **Développeur Python** : je construis des outils simples qui résolvent de vrais problèmes, et j'aime comprendre en profondeur comment les choses fonctionnent.
 - 🐧 Utilisateur **Linux** au quotidien : ligne de commande, Git, GitHub.
-- 🎓 Futur étudiant en **génie informatique** au **New York City College of Technology (CUNY)**, printemps 2027.
+- 🎓 Futur étudiant en **Computer Systems** (systèmes informatiques) au **New York City College of Technology (CUNY)**, printemps 2027.
 - 📜 En train de terminer le **Google IT Support Professional Certificate**.
 - 🌍 Langues : français · anglais · wolof · peul.
 
